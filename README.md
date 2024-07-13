@@ -1,0 +1,1 @@
+These mods require SMAPI to be installed in order to work with Stardew. The details on how to do this, along with the download, can be found here: https://smapi.io/ (GitHub repo: https://github.com/Pathoschild/SMAPI)
